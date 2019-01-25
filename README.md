@@ -1,3 +1,3 @@
 #Dissertation thesis slides
 
-Thesis Text: https://github.com/dcolinmorgan/Thesis
+Thesis Text: https://github.com/dcolinmorgan/Thesis-Towards-Reliable-GRNI
